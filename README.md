@@ -14,9 +14,7 @@ The Express server, besides delivering whats required for React, should also pro
 
 ### Do
 
-- Use React Context
-- Be mindful of when to use props vs. state
-- Use webpack
+- Be mindful of when to use props vs. state vs. Hooks vs. Context
 - Be RESTful
 - ES6+
 - Use JS best practices

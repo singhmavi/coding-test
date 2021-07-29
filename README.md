@@ -22,7 +22,7 @@ The Express server, besides delivering whats required for React, should also pro
 
 ### Don't
 
-- Use 3rd party image carousels
+- Use 3rd party image carousels (also - try to avoid 3rd party component libraries)
 - Over think the problem, there's no trick here
 
 ### BONUS

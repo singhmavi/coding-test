@@ -1,18 +1,19 @@
 # Ownr Developer Candidate Coding Test
 
-ownr-photo-ui:React Client application build using create-react-app
-npm install
-npm run build
+## ownr-photo-ui: Client application build using create-react-app
 
-ownr-photo-service: RestApi for photos
-npm run install
-npm run start (npm run dev using nodemon)
+- npm install
+- npm run build
+
+## ownr-photo-service: RestApi for photos
+
+- npm run install
+- npm run start
+- npm run dev (using nodemon)
 
 By default photo-service runs on 8080 port and client app is rendered at http://localhost:8080/client
 
-
-
-Congratulations, you have been asked to complete our Full Stack candidate proficiency test! 
+Congratulations, you have been asked to complete our Full Stack candidate proficiency test!
 
 You will have **48 hours** starting when you receive this test to return the full working source code as a Pull Request against a fork of this repository. Please thoroughly read the attached set of instructions. You will be creating a mini web app that uses React, Node & Express. This app will consist of a backend Express server that will deliver a React app to be rendered in the browser. The app that you will be building is a simple image carousel that allows the user to pick between cat or
 shark photos and then cycle through those photos. An example of a running version of this can be seen here:
@@ -80,13 +81,16 @@ const catsList = [
 - Complete the assignment in a separate branch in your version of the repository
 
 ### Submission
+
 There are several ways to submit your completed assignment:
 
 #### PR Method (Preferred)
+
 - Create a PR for `your new branch` -> `master` **in your own repository**
 - Do not PR in this repository
 - Email hugh.soong@rbc.com with a link to the PR
 
 #### Zip Method
+
 - Zip your completed code
 - Email it to hugh.soong@rbc.com
